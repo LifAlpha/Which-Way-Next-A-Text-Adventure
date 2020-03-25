@@ -18,8 +18,7 @@ print("You jump to your feet. You are alone.")
 
 #call to action
 response = ""
-while response not in yes_no\n
-    response = input("The alley is damp but comfortable. It would be a shame to leave. What do you do?"
+if(response("The alley is damp but comfortable. It would be a shame to leave. What do you do?")
     if response == "leave":
         print("'Fool.' You step away from the cool brick and look out towards the street.")
     elif response == "sit", "stay":
