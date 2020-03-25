@@ -5,7 +5,7 @@ directions = ["left","right","forward","backward"]
 #introduction
 print = "The sound of an AC kicking on wakes you."
 time.sleep(2)
-print("A moment later, the soft dripping sounds of water from above pitter patter beside you."
+print("A moment later, the soft dripping sounds of water from above pitter patter beside you.")
 print("You find yourself on the ground in a dark damp alley.")
 name = input("A voice whispers in your head. 'Who are you?'\n")
 print("'Hmm, " + name + ".'")
@@ -13,7 +13,7 @@ time.sleep(3)
 print("When the voice speaks again, it feels as if it's right behind you. 'What a mundane title. Did you choose it yourself?', it hisses.")
 print("You turn around but nothing is there. It chuckles and the sound fades further into the darkness of the alleyway.")
 time.sleep(5)
-print("'GET UP. GET UP. GET UP. GET UP.' The voice screams into your ear, right beside you.)
+print("'GET UP. GET UP. GET UP. GET UP.' The voice screams into your ear, right beside you.")
 print("You jump to your feet. You are alone.")
 
 #call to action
