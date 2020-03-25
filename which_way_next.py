@@ -6,7 +6,7 @@ directions = ["left","right","forward","backward"]
 print = "The sound of an AC kicking on wakes you."
 time.sleep(2)
 print("A moment later, the soft dripping sounds of water from above pitter patter beside you."
-print("You find yourself on the ground in a dark damp alley."
+print("You find yourself on the ground in a dark damp alley.")
 name = input("A voice whispers in your head. 'Who are you?'\n")
 print("'Hmm, " + name + ".'")
 time.sleep(3)
