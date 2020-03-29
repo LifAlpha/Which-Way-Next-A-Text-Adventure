@@ -1,4 +1,5 @@
-import os, time
+from player import wwn_player
+import os, time, wwn_world
 
 #title screen holds for 5 seconds
 print("Which Way Next: A Text Adventure Game\n")
