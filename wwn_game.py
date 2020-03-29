@@ -1,5 +1,4 @@
-from player import wwn_player
-import os, time, wwn_world
+import os, time
 
 #title screen holds for 5 seconds
 print("Which Way Next: A Text Adventure Game\n")
@@ -9,4 +8,8 @@ time.sleep(5)
 
 #clear the screen
 os.system('cls')
+
+#game start
+from player import wwn_player
+import wwn_world
 
